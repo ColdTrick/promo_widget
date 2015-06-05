@@ -56,6 +56,7 @@ foreach ($sides as $side) {
 		
 		$side_content['content'] = elgg_view('output/url', array(
 			'href' => $link,
+			'text' => '&nbsp;'
 		));
 		
 		$side_content['class'][] = 'promo-widget-type-image';
