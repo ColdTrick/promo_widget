@@ -41,6 +41,7 @@
 }
 .elgg-widget-instance-promo_widget .elgg-widget-content > table td {
 	float: none;
+	display: inline-block;
 }
 
 .elgg-widget-instance-promo_widget .elgg-widget-content > table a {
