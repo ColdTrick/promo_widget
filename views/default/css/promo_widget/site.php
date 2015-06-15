@@ -42,6 +42,9 @@
 .elgg-widget-instance-promo_widget .elgg-widget-content > table td {
 	float: none;
 }
+.elgg-widget-instance-promo_widget .elgg-widget-content > table td.elgg-col-1of2 {
+	display: inline-block;
+}
 
 .elgg-widget-instance-promo_widget .elgg-widget-content > table a {
 	display: inline-block;
